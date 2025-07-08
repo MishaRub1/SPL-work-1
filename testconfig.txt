@@ -1,0 +1,7 @@
+settlement KfarSPL 0
+settlement KiryatSPL 1
+facility School 0 5 10 2 3
+facility Factory 1 7 3 15 4
+facility Park 2 3 8 1 10
+plan KfarSPL nve
+

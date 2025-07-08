@@ -2,8 +2,8 @@ Reconstruction Simulation — SPL Assignment #1
 
 Overview
 
-
-This project is an object-oriented simulation system implemented in C++ as part of the Systems Programming Lab (SPL) course. The simulator models reconstruction plans for different settlements in SPLand, allowing evaluation of various rebuilding strategies after a long war.
+This project is an object-oriented simulation system implemented in C++ as part of the Systems Programming Lab (SPL) course.
+The simulator models reconstruction plans for different settlements in SPLand, allowing evaluation of various rebuilding strategies after a long war.
 
 
 The assignment focuses on practicing advanced C++ concepts, including:

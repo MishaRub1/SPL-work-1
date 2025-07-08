@@ -9,26 +9,18 @@ This project is an object-oriented simulation system implemented in C++ as part 
 The assignment focuses on practicing advanced C++ concepts, including:
 
 Class design and inheritance
-
 The Rule of 5
-
 Memory management and leak prevention
-
 Custom selection policies and dynamic simulation steps
 
 
 Features
 
 Simulation Engine: Manages settlements, facilities, and reconstruction plans.
-
 Flexible Plans: Supports different selection policies (naive, balanced, economy-focused, sustainability-focused) to determine which facilities to build next.
-
 Settlement Types: Supports villages, cities, and metropolises, each with different construction capacities.
-
 Action System: Supports a variety of user commands, including adding settlements and facilities, creating plans, simulating time steps, changing policies, and logging actions.
-
 Backup & Restore: Ability to backup and restore the entire simulation state.
-
 Robust CLI Interface: Reads a configuration file and supports runtime commands.
 
 
